@@ -27,7 +27,7 @@ public class Calculator
 		           break;
 		           
 		}
-		System.out.println(n1+" "+operator+" "+n2+ " "+ result);
+		System.out.println(n1+" "+operator+" "+n2+ "= "+ result);
 		
 		
 		
