@@ -29,8 +29,8 @@ package phase1.project;
 	        try (Scanner input = new Scanner(System.in))
 	         
 	         {
-				System.out.println("Enter email Id : ");
-	            searchEmail = input.nextLine(); 
+	           System.out.println("Enter email Id : ");
+	           searchEmail = input.nextLine(); 
 			 }
 	        
 	        
@@ -44,11 +44,10 @@ package phase1.project;
 	         
 	         else
 	    	  
-	           {
-	    	  
+		 {
 	             System.out.println( "email ID " + searchEmail + " not found");
 	          
-	           }   
+	          }   
 	             
 	        }
 
